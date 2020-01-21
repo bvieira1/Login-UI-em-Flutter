@@ -1,7 +1,7 @@
 # Login UX UI Flutter
 
 
-![App](https://github.com/bvieira1/SkateBoard/blob/master/assets/skate.gif)
+![App](https://github.com/bvieira1/Login-UI-em-Flutter/blob/master/assets/login.png)
 
 A new Flutter project.
 
